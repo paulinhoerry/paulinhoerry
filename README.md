@@ -5,7 +5,7 @@
 <p align="justify">
   I'm software developer for the last ten years. I am enthusiastic about finding innovative solutions to complex issues, and I have experience working with the JavaScript ecosystem and, more recently, TypeScript.
 
-  Currently I'm working with <b>Typescript</b>, <b>React</b>, <b>Tailwind</b> and <b>NodeJS</b>. 
+  Currently I'm working with <b>Typescript</b>, <b>React</b>, <b>Tailwind</b> and <b>NodeJS</b> with the frontend and <b>NestJS</b> and <b>Postgres</b> with the backend.
 </p>
 
 ### Connect with me
